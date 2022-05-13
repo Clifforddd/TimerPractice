@@ -1,3 +1,4 @@
+//Author: Diniuzai Huang (Clifford)
 // function to count down time.
 function countDown(time){
     let timer = setInterval(function() {
